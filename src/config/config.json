@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Jotter Agency",
+    "title": "Jotter",
     "base_url": "https://jotter.agency",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "147",
-    "logo_height": "31",
+    "favicon": "/images/favicon-new.png",
+    "logo": "/images/logo-new.png",
+    "logo_width": "200",
+    "logo_height": "50",
     "logo_text": "Pinwheel"
   },
 
@@ -18,27 +18,27 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Reclaim attention for your business",
+    "description": "Bring back the focus and reclaim your audience's attention with purposeful, engaging long-form content",
     "button": {
-      "label": "Start your Journey!",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Discover why long-form content wins!",
+      "link": "/blog"
     }
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "footer_description": "Jotter is a unique content agency that specialises in long-form content.",
+    "email": "contact@jotter.agency",
+    "location": "83 - 93 Dalmeny Avenue, Rosebery 2018",
+    "phone": "+61488000191",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 [jotter.agency](https://themefisher.com)"
   },
 
   "metadata": {
